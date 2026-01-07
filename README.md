@@ -51,9 +51,13 @@ OpenSpec คือ **สรุปโครงการ **Fission-AI /**OpenSpec*
 ## คุณสมบัติสำคัญ
 
 ✔️ **Spec-Driven Development (SDD)** – ระบุข้อกำหนดอย่างเป็นระบบก่อนโค้ด
+
 ✔️ **Reviewable & Auditable** – ทุกการเปลี่ยนแปลงตรวจสอบได้
+
 ✔️ **Works with Many AI Tools** – รองรับ Slash Cmd หรือ workflow กับ Claude, Cursor, Copilot, Qoder, OpenCode เป็นต้น 
+
 ✔️ **Lightweight & No API Key Needed** – ใช้กับเครื่องมือที่มีอยู่ได้ทันที
+
 ✔️ **Structured Change Management** – แยก Proposal / Tasks / Specs ออกจากกัน ทำให้ tracking ง่าย 
 
 #
