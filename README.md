@@ -1,6 +1,11 @@
 #  OpenSpec เครื่องมือจัดการสเปก เพื่อใช้ AI เขียนโค้ดได้อย่างมั่นใจ
 
 OpenSpec คือเครื่องมือ โอเพ่นซอร์ส สำหรับทำ Spec-Driven Development (SDD) ที่พัฒนาโดย Fission-AI — ซึ่งเป็นองค์กร/ทีมพัฒนาเครื่องมือและ workflow ที่ช่วยให้มนุษย์และ AI ทำงานร่วมกันในการเขียนโค้ดอย่างเป็นระบบมากขึ้น
+คล้ายกับ Spec Kit (https://github.com/github/spec-kit)
+
+- Spec Kit จะเป็น Phase-Driven
+      
+- OpenSpec จะเป็น Change-Driven
 
 #
 
