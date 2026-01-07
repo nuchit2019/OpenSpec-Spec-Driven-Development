@@ -1,6 +1,6 @@
 #  OpenSpec เครื่องมือจัดการสเปก เพื่อใช้ AI เขียนโค้ดได้อย่างมั่นใจ
 
-OpenSpec คือ **สรุปโครงการ **Fission-AI /**OpenSpec** *(จาก GitHub)*
+## OpenSpec คือเครื่องมือ โอเพ่นซอร์ส สำหรับทำ Spec-Driven Development (SDD)
 
 #
 
